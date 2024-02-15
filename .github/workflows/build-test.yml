@@ -20,4 +20,4 @@ jobs:
           cache: 'maven'
 
       - name: Build Java components
-        run: mvn -B test
+        run: mvn -B test 
